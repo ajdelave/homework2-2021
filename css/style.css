@@ -23,6 +23,10 @@ img{
   width: 550px;
   height: auto;
 }
+div{
+  min-height: 150px;
+  padding: 25px;
+}
 #red{
   background-color: #FF0000;
   text-align: right;
